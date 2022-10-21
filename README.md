@@ -1,7 +1,7 @@
 # Tratamento de Excessões Com Java!
 
 Este projeto contém três versões de tratamentos de excessões.<br/>
-Iniciando com a solução ruin até a melhor e mais <b>adequada solução de tratamento de excessões<b>.<br/>
+Iniciando com a solução ruim até a melhor e mais <b>adequada solução de tratamento de excessões<b>.<br/>
 
 ## Solução muito ruim 
 
